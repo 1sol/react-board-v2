@@ -113,6 +113,10 @@ a {
     border-radius: 5px;
 }
 
+.board-container .member-search {
+    padding: 1rem;
+}
+
 .btn-red {
     background-color: #DC2715;
 }
@@ -129,6 +133,11 @@ a {
 
 .btn-add:hover {
     background-color: #c72313;
+}
+
+.board-container .btn-add {
+    float: right;
+    margin-right: 17px;
 }
 
 /* modal */
